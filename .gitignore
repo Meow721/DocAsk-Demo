@@ -1,6 +1,9 @@
 #密钥，绝不能上传
 .env
 
+# 本地学习进度（完整版在 Obsidian；不放公开仓库）
+PROGRESS.md
+
 # 虚拟环境
 .venv/
 venv/
